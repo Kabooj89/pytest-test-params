@@ -1,0 +1,17 @@
+# author:
+#        Mohammad Kabajah
+# Contact:
+#        kabajah.mohammad@gmail.com
+# date:
+#        May 12, 2019
+# Purpose:
+#       Test Configuration for test: test_testparams
+
+test_demo:
+    name: "test_demo"
+
+test_demo1:
+    name: "test_demo1"
+
+test_demo2:
+    name: "test_demo2"

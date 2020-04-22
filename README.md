@@ -194,31 +194,3 @@ the plugin adds the following command line flags to pytest::
                           individual keys within the params dict, instead treat
                           them as params[my.toplevel.key] ala sqlalchemy.url in
                           pylons.
-
-
-[Authors]:
-==========
-
-    Mohammad Kabajah - Initial work
-    See also the list of contributors who participated in this project.
-        TO ADD
-        
-
-[License]:
-==========
-
-    Copyright(C) 2019 Annapurna Lab an Amazon Company, LTD.
-        All Right Reserved.
- 
-    Dissemination of this information or reproduction of this material
-    is strictly forbidden unless prior written permission is obtained
-    from Annapurna Lab, LTD.
-
-
-
-
-[Issues]:
-=========
-    
-    1- need to get solution for multilevel in ini files 
-    2- insert argument types in ini files currently all is string
